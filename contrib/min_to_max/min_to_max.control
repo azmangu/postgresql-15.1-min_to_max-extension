@@ -1,0 +1,5 @@
+# min_to_max extension
+comment = 'function to count number of min and max value'
+default_version = '1.0'
+module_pathname = '$libdir/char_count'
+relocatable = true
